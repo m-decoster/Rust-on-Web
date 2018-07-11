@@ -1,6 +1,6 @@
 # Rust on Web
 
-Rust on Web (RoW) is an example of using Rust and WebAssembly
+The very originally named Rust on Web (RoW) is an example of using Rust and WebAssembly
 with wasm-bindgen and webpack. This is not the first example using these technologies,
 but it should build out of the box, which means it is a great starting point.
 
