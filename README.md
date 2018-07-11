@@ -1,13 +1,13 @@
 # Rust on Web
 
-Rust on Web (RoW) is a proof of concept of using Rust and WebAssembly
-with wasm-bindgen and webpack. This is not the first proof of concept,
-but it should build out of the box.
+Rust on Web (RoW) is an example of using Rust and WebAssembly
+with wasm-bindgen and webpack. This is not the first example using these technologies,
+but it should build out of the box, which means it is a great starting point.
 
 RoW was created primarily as a learning exercise for me, and to experiment
 with WebAssembly and Rust.
 
-It is very much based on [this blog post](https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/) by Alex Crichton.
+It is very much based on [this blog post](https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/) by Alex Crichton - which you should very much read!
 I mainly filled in the gaps where there were broken links to a GitHub repository and structured the code in a way that Rust code is separated
 from HTML and JavaScript, and in a way that the entire project can be built
 with a single command. Again, Alex really did most of the work.
