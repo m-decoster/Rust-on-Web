@@ -19,7 +19,7 @@ is a Rust project and the frontend is a project created with NPM.
 
 ## Prerequisites
 
-RoW requires a nightly Rust compiler and the wasm32-unknown-unknown toolchain. It also requires NPM.
+RoW requires a nightly Rust compiler and the wasm32-unknown-unknown target. It also requires NPM.
 
 Below are the commands that you can use on MacOS. I haven't tried building this project on other operating systems, though it should work out of the box on Unix based systems provided that you install these prerequisites.
 
